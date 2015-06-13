@@ -28,5 +28,4 @@ dependencies {
     compile ('org.codehaus.groovy:groovy-json:2.4.0') {
         transitive = false
     }
-    compile 'org.robospock:robospock:0.4.4'
 }

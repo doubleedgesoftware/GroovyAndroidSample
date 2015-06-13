@@ -1,18 +1,12 @@
 package com.doubleedgesoftware.groovyandroidsample
 
-import groovy.transform.CompileStatic;
+import groovy.transform.CompileStatic
+import groovy.transform.ToString;
 
 @CompileStatic
+@ToString
 class Person {
     String name
-    String age
+    Integer age
     List<String> pets
-
-    String toString() {
-        return "Person{" +
-                "name='" + name + '\'' +
-                ", age='" + age + '\'' +
-                ", pets=" + pets +
-                '}';
-    }
 }

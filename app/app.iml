@@ -87,57 +87,16 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
+      <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 22 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="classworlds-1.1-alpha-2" level="project" />
-    <orderEntry type="library" exported="" name="plexus-utils-1.5.15" level="project" />
-    <orderEntry type="library" exported="" name="objenesis-1.3" level="project" />
-    <orderEntry type="library" exported="" name="nekohtml-1.9.6.2" level="project" />
-    <orderEntry type="library" exported="" name="maven-repository-metadata-2.2.1" level="project" />
-    <orderEntry type="library" exported="" name="groovy-json-2.4.0" level="project" />
-    <orderEntry type="library" exported="" name="commons-codec-1.3" level="project" />
-    <orderEntry type="library" exported="" name="wagon-http-shared-1.0-beta-6" level="project" />
-    <orderEntry type="library" exported="" name="robolectric-2.2" level="project" />
-    <orderEntry type="library" exported="" name="wagon-file-1.0-beta-6" level="project" />
-    <orderEntry type="library" exported="" name="maven-artifact-2.2.1" level="project" />
-    <orderEntry type="library" exported="" name="maven-profile-2.2.1" level="project" />
-    <orderEntry type="library" exported="" name="groovy-2.4.3-grooid" level="project" />
-    <orderEntry type="library" exported="" name="support-v4-r7" level="project" />
-    <orderEntry type="library" exported="" name="asm-util-4.1" level="project" />
-    <orderEntry type="library" exported="" name="ant-launcher-1.8.0" level="project" />
-    <orderEntry type="library" exported="" name="plexus-interpolation-1.11" level="project" />
-    <orderEntry type="library" exported="" name="groovy-all-1.8.8" level="project" />
-    <orderEntry type="library" exported="" name="maven-project-2.2.1" level="project" />
-    <orderEntry type="library" exported="" name="appcompat-v7-22.2.0" level="project" />
-    <orderEntry type="library" exported="" name="maven-artifact-manager-2.2.1" level="project" />
-    <orderEntry type="library" exported="" name="robospock-0.4.4" level="project" />
-    <orderEntry type="library" exported="" name="spock-core-0.7-groovy-1.8" level="project" />
-    <orderEntry type="library" exported="" name="sqlite-jdbc-3.7.2" level="project" />
-    <orderEntry type="library" exported="" name="asm-tree-4.1" level="project" />
-    <orderEntry type="library" exported="" name="asm-4.1" level="project" />
-    <orderEntry type="library" exported="" name="ant-1.8.0" level="project" />
-    <orderEntry type="library" exported="" name="maven-ant-tasks-2.1.3" level="project" />
-    <orderEntry type="library" exported="" name="junit-dep-4.10" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="mockable-android-22" level="project" />
-    <orderEntry type="library" exported="" name="maven-error-diagnostics-2.2.1" level="project" />
-    <orderEntry type="library" exported="" name="wagon-http-lightweight-1.0-beta-6" level="project" />
-    <orderEntry type="library" exported="" name="junit-3.8.1" level="project" />
     <orderEntry type="library" exported="" name="swissknife-1.3.1" level="project" />
-    <orderEntry type="library" exported="" name="plexus-container-default-1.0-alpha-9-stable-1" level="project" />
-    <orderEntry type="library" exported="" name="backport-util-concurrent-3.1" level="project" />
-    <orderEntry type="library" exported="" name="maven-plugin-registry-2.2.1" level="project" />
-    <orderEntry type="library" exported="" name="maven-settings-2.2.1" level="project" />
-    <orderEntry type="library" exported="" name="support-annotations-22.2.0" level="project" />
-    <orderEntry type="library" exported="" name="vtd-xml-2.11" level="project" />
-    <orderEntry type="library" exported="" name="asm-commons-4.1" level="project" />
-    <orderEntry type="library" exported="" name="hamcrest-core-1.3" level="project" />
-    <orderEntry type="library" exported="" name="asm-analysis-4.1" level="project" />
-    <orderEntry type="library" exported="" name="maven-model-2.2.1" level="project" />
-    <orderEntry type="library" exported="" name="fest-util-1.2.5" level="project" />
     <orderEntry type="library" exported="" name="support-v4-22.2.0" level="project" />
-    <orderEntry type="library" exported="" name="fest-reflect-1.4.1" level="project" />
-    <orderEntry type="library" exported="" name="wagon-provider-api-1.0-beta-6" level="project" />
-    <orderEntry type="library" exported="" name="xercesMinimal-1.9.6.2" level="project" />
+    <orderEntry type="library" exported="" name="support-annotations-22.2.0" level="project" />
+    <orderEntry type="library" exported="" name="appcompat-v7-22.2.0" level="project" />
+    <orderEntry type="library" exported="" name="groovy-json-2.4.0" level="project" />
+    <orderEntry type="library" exported="" name="groovy-2.4.3-grooid" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="mockable-android-22" level="project" />
   </component>
 </module>
